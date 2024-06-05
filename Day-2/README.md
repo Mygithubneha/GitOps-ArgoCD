@@ -36,6 +36,8 @@ Dex: Provides single sign-on (SSO) capabilities.
 Redis: Used for caching to maintain state and ensure seamless operations, even if components restart.
 
 ![alt text](image.png)
+
+
 How It Works
 
 Syncing State: The repo server fetches manifests from Git, while the application controller retrieves the current state from Kubernetes. These are compared to ensure they are in sync.
