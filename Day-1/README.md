@@ -1,5 +1,5 @@
 # GitOps-ArgoCD
-🚀 GitOps &amp; Argo CD
+🚀 DAY-1 -GitOps &amp; Argo CD - Introduction
 
 🚀 GitOps & Argo CD Crash Course: Unveiling the Power of GitOps 🌟
 
