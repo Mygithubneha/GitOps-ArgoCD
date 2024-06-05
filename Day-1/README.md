@@ -52,3 +52,4 @@ Automated Deployments: Changes are automatically applied, reducing manual interv
 Auto-Healing: The system can automatically correct deviations from the desired state.
 
 Scalability: GitOps can efficiently manage large and complex infrastructures.
+
