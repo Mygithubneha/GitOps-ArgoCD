@@ -25,6 +25,12 @@ eksctl create cluster --name=hub-cluster
 eksctl create cluster --name=spoke-cluster-1
 eksctl create cluster --name=spoke-cluster-2
 ```
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+
 
 Argo CD Deployment Model
 
